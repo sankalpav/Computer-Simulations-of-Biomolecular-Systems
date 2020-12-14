@@ -1,6 +1,6 @@
-## Molecular Dynamics Simulations of MERS CoV and SARS CoV 2 Fusion Heptad Repeats
+# Molecular Dynamics Simulations of MERS CoV and SARS CoV 2 Fusion Heptad Repeats
 
-# Introduction
+## Introduction
 
 Kandeel et al., (2018) studied the Molecular dynamics of Middle East Respiratory Syndrome Coronavirus (MERS CoV) fusion heptad repeat trimers. They identified a research gap in the study of structures related to MERS CoV. This is a zoonotic viral respiratory syndrome, much like Severe Acute Respiratory Syndrome (SARS) and Severe Acute Respiratory Syndrome 2 (SARS CoV 2). Evidence suggests that this disease crossed the species barrier from dromedary camels to infect humans. MERS CoV outbreaks have occurred and affected Saudi Arabia, United Arab Emirates and other middle eastern and african countries. Although MERS CoV does not get transmitted from person to person unless there is close contact, it has a high fatality rate of nearly 35%. 
 
